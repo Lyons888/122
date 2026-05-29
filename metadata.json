@@ -1,0 +1,8 @@
+{
+  "name": "Remix: 心情气象台：你的今日情绪预报",
+  "description": "基于6张有趣生活场景插画，测评你近两周的情绪状态，生成专属情绪气象预报并提供温馨疗愈建议。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
